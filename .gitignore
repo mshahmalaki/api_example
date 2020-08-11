@@ -1,5 +1,6 @@
 
 .DS_Store
+.idea/
 .idea/.gitignore
 .idea/api_example.iml
 .idea/inspectionProfiles/
