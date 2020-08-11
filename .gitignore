@@ -1,0 +1,10 @@
+
+.DS_Store
+.idea/.gitignore
+.idea/api_example.iml
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+__pycache__/
+venv/
